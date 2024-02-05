@@ -1,0 +1,52 @@
+body {
+    text-align: center;
+    background-color: #f5f5dc;
+    font-family: monospace; 
+    display: block;
+    width: 100%;
+    position: fixed;
+}
+h1 {
+    background-color: #f8de7e;
+    border: #f8de7e;
+    padding: 15px 15px;
+    border-radius: 15px;
+    color: #93c572;
+    font-size: 120px;
+
+}
+li {
+    list-style: none;
+    font-size: 50px;
+    display: inline-block;
+    line-height: 75px;
+
+}
+#kimchi {
+    background-color: #93c572;
+    border: 3px solid #93c572;
+    padding: 20px 20px 100px 20px;
+    border-radius: 30px;
+
+}
+#tofu {
+    background-color: #93c572;
+    border: 3px solid #93c572;
+    padding: 20px 20px 100px 20px;
+    border-radius: 30px;
+}
+#dak {
+    background-color:#93c572;
+    border: 3px solid #93c572;
+    padding: 20px 20px 100px 20px;
+    border-radius: 30px;
+}
+a {
+    color: #f8de7e;
+    text-decoration: none;
+}
+a:hover, a:active {
+    color:  #4f7942;
+    text-decoration: none;
+}
+
