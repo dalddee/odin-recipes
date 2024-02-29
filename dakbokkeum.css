@@ -1,0 +1,17 @@
+* {
+    text-align: center;
+    background-color: #f5f5dc;
+    font-family: monospace; 
+    color: #93c572;
+    display: flex;
+    flex-direction: column;
+}
+head {
+    display: none;
+}
+img {
+    display: center;
+}
+ol {
+    list-style: number;
+}
